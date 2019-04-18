@@ -1,0 +1,22 @@
+{
+  "name": "sample-liff-apigw-lambda",
+  "version": "1.0.0",
+  "description": "Sample LIFF app using API Gateway w/ AWS Lambda.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cm-nakamura-yuki/sample-liff-apigw-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cm-nakamura-yuki/sample-liff-apigw-lambda/issues"
+  },
+  "homepage": "https://github.com/cm-nakamura-yuki/sample-liff-apigw-lambda#readme",
+  "dependencies": {
+    "@types/node": "^11.13.5"
+  }
+}

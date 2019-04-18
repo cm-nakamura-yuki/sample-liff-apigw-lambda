@@ -1,0 +1,10 @@
+{
+  "name": "linetool",
+  "description": "",
+  "memory": 128,
+  "runtime": "nodejs8.10",
+  "handler": "index.handler",
+  "timeout": 5,
+  "role": "arn:aws:iam::xxxxxxxxxxx:role/linetool_lambda_function",
+  "environment": {}
+}
